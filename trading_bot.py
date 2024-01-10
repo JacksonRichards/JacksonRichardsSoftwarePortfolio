@@ -1581,8 +1581,8 @@ def Algorithm():
                     #print(computer_name)
                     
                     
-                    account_sid = "ACf6c7e9b914fd128bfbb9aa40d3137ad5"
-                    auth_token = "d05ab69c1fd6ae8eacc508637b150d34"
+                    account_sid = "XXXXXX"
+                    auth_token = "XXXXXX"
                     client = Client(account_sid, auth_token)
         
                     message = client.messages.create(
