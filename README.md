@@ -1,2 +1,2 @@
 # JacksonRichardsProgramPortfolio
-A comprehensive portfolio of all my work as a software engineer
+A comprehensive portfolio of all my best work as a software engineer
