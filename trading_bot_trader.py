@@ -658,9 +658,9 @@ def Algorithm():
         # Creating the low level functional client
         #client = boto3.client(
             #'s3',
-            #aws_access_key_id = 'AKIATA3AUYKGATPBPL5Y',
-            #aws_secret_access_key = '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',
-            #region_name = 'us-west-2'
+            #aws_access_key_id = '',
+            #aws_secret_access_key = '',
+            #region_name = ''
         #)
         
         #client.download_file(
